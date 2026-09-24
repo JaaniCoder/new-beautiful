@@ -104,7 +104,7 @@ export default function Home() {
               <p>
                 I know you&apos;ve been working so hard lately. I see you constantly
                 pushing yourself, trying to improve your skills, and building a
-                life for us.
+                life for yu.
               </p>
               <p>
                 Sometimes, in the middle of all that hustle, I just want to

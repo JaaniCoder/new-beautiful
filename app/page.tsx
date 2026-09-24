@@ -224,7 +224,7 @@ export default function Home() {
           <p
             className={`${caveat.className} text-5xl sm:text-7xl text-white/90 drop-shadow-[0_0_20px_rgba(255,255,255,0.15)]`}
           >
-            Jitin
+            Anuj
           </p>
         </motion.div>
       </div>

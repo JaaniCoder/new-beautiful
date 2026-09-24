@@ -50,7 +50,7 @@ export default function RootLayout({
         {/* 2. Persistent Global Floating Signature */}
         <div className="fixed bottom-4 right-6 sm:bottom-6 sm:right-8 z-50 pointer-events-none opacity-40 mix-blend-screen">
           <p className="text-[10px] sm:text-xs tracking-[0.3em] text-white/50 uppercase font-sans">
-            Jitin & Her <span className="text-rose-500 animate-pulse inline-block ml-1">❤</span>
+            Me & U <span className="text-rose-500 animate-pulse inline-block ml-1">❤</span>
           </p>
         </div>
       </body>
